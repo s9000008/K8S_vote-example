@@ -1,6 +1,6 @@
 ### Kubernetes vote application example
 
-1. 相關服務應用與法
+1. 服務部屬語法
     ```bash
     kubectl apply -f https://raw.githubusercontent.com/dockersamples/example-voting-app/main/k8s-specifications/db-deployment.yaml
     kubectl apply -f https://raw.githubusercontent.com/dockersamples/example-voting-app/main/k8s-specifications/db-service.yaml
